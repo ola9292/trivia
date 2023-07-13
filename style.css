@@ -1,0 +1,32 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: gray;
+}
+
+.quiz-container{
+  
+    padding: 10px;
+}
+h1{
+    color: purple;
+}
+.last-question{
+    margin-bottom: 20px;
+}
+#submit-btn{
+    width: 30%;
+    padding: 4px;
+    border-radius: 5px;
+    border: none;
+    background-color: purple;
+    color: #fff;
+}
+#display{
+    background-color: red;
+    color: #fff;
+    width: 40%;
+    margin: auto;
+    padding: 5px;
+    display: none;
+}
